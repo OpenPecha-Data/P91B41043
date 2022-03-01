@@ -1,0 +1,22 @@
+id: 1192d35e8ff84dd4a925a2d195bd5f35
+annotation_type: index
+revision: '00001'
+annotations:
+  bd6c5c775d3a4b679992b46bd3b7a1d0:
+    work_id: WA98ABF80
+    span:
+      vol: Nidāna
+      start: 0
+      end: 78656
+  342eef1efe494aa2b636e268ead4b4fe:
+    work_id: W8F63E316
+    span:
+      vol: Samantabhadra
+      start: 0
+      end: 10880
+  0c5c6440c7874f50a280834ea185ea51:
+    work_id: WB45F0657
+    span:
+      vol: Title
+      start: 0
+      end: 55

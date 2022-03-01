@@ -1,0 +1,21 @@
+id: P91B41043
+initial_creation_type: input
+source_metadata:
+  title: 'BA: Gaṇḍavyūhasūtra'
+  language: bo
+  volumes:
+    fb73371b710b4800be0409aa782d609d:
+      title: Nidāna
+      base_file: Nidāna.txt
+      work_id: WA98ABF80
+    550c3f4dd1a047faa80c01bf75c48dbc:
+      title: Samantabhadra
+      base_file: Samantabhadra.txt
+      work_id: W8F63E316
+    d7429e71ac014e0c9b912469eff12d94:
+      title: Title
+      base_file: Title.txt
+      work_id: WB45F0657
+  chapter_to_tile: {}
+created_at: '2022-03-01T21:28:11.889128'
+last_modified_at: '2022-03-01T21:28:11.889136'
